@@ -3,7 +3,7 @@ import movies from '../../movies.json';
 import MovieCard from '../MovieCard/MovieCard';
 import style from './GridMovies.module.css'
 import { useState } from 'react';
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 
 export default function GridMovies (){
     
