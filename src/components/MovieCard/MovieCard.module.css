@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    width: 1000px;
+    height: 600px;
+    gap: 2rem;
+    margin: 2rem;
+}
+
+.content{
+    width: 500px;
+}
+
+.img{
+    width: 500px;
+    border-radius: 10px;
+}
